@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Spring Boot for Java Backend Development.
 - 📫 How to reach me : Using my social media links.
 - 😄 Pronouns: Mukund is just fine.
-- ⚡ Fun fact: I have a little OCD.
+- ⚡ Fun fact: I have a little OCD for being on time.
 
 <!---
 mukund-rakholiya/mukund-rakholiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
