@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on enhancing my skills in Java, Spring Boot, and RESTful API development through personal projects and coursework.<br><br>👯 I’m looking to 
 collaborate on innovative backend development projects, especially those involving Java, Spring Boot, and database optimization.<br><br>🤝 I’m looking for help with advanced concepts in system design, microservices architecture, and cloud technologies to further improve my technical expertise.<br><br>🌱 I’m currently learning Kotlin, advanced database management techniques, and exploring cloud platforms like AWS.<br><br>💬 Ask me about Java, Spring Boot, RESTful APIs, or how to optimize database queries for better performance.<br><br>⚡ Fun fact: I once automated a billing system that improved accuracy by 30%, and I love solving complex coding problems in my free time!
-
+ 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mukund-rakholiya) 
