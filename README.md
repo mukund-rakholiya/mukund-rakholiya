@@ -3,7 +3,7 @@
 collaborate on innovative backend development projects, especially those involving Java, Spring Boot, and database optimization.<br><br>🤝 I’m looking for help with advanced concepts in system design, microservices architecture, and cloud technologies to further improve my technical expertise.<br><br>🌱 I’m currently learning Kotlin, advanced database management techniques, and exploring cloud platforms like AWS.<br><br>💬 Ask me about Java, Spring Boot, RESTful APIs, or how to optimize database queries for better performance.<br><br>⚡ Fun fact: I once automated a billing system that improved accuracy by 30%, and I love solving complex coding problems in my free time!
 
 
-## 🌐 Socials: 
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mukund-rakholiya) 
 [![LeetCode](https://img.shields.io/badge/leetcode-%23E4405F.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/mukund_rakholiya/) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23E4405F.svg?logo=polywork&logoColor=white)](https://www.polywork.com/mukund_rakholiya)
