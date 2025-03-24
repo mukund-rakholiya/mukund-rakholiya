@@ -10,7 +10,6 @@ I'm a developer who loves working with **JavaScript**, **React.js**, and **Next.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mukund-rakholiya) 
 [![LeetCode](https://img.shields.io/badge/leetcode-%23E4405F.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/mukund_rakholiya/) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23E4405F.svg?logo=polywork&logoColor=white)](https://www.polywork.com/mukund_rakholiya)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mukund_rakholiya_) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mukurakholiya119@gmail.com) 
 
@@ -26,8 +25,8 @@ I'm a developer who loves working with **JavaScript**, **React.js**, and **Next.
 ![OOPs](https://img.shields.io/badge/OOPs-%2300C4CC.svg?style=for-the-badge&logo=code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![React](https://img.shields.io/badge/react-02303A.svg?style=for-the-badge&logo=react&logoColor=white)
-![Next](https://img.shields.io/badge/next-%2307405e.svg?style=for-the-badge&logo=next&logoColor=white)
+![React.js](https://img.shields.io/badge/react.js-02303A.svg?style=for-the-badge&logo=react&logoColor=white)
+![Next](https://img.shields.io/badge/next.js-%2307405e.svg?style=for-the-badge&logo=next&logoColor=white)
 ![Kubernates](https://img.shields.io/badge/kubernates-%2300599C.svg?style=for-the-badge&logo=kubernates&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-59666C.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-%23F05033.svg?style=for-the-badge&logo=spring&logoColor=white)
