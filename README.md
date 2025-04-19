@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+There!;I'm+Mukund+Rakholiya;Final+year+BCA+student." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+Developers!;I'm+Mukund+Rakholiya..." alt="Typing SVG" /></a>
 
 I'm a developer who loves working with **JavaScript**, **React.js**, and **Next.js**. 🌐✨ I enjoy making fun and interactive websites that are easy to use.
 
